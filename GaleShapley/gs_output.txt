@@ -1,0 +1,5 @@
+# Ferdinand Mudjialim, Johnathan Alexander
+[('xavier', 'amy'), ('yancey', 'bertha'), ('zeus', 'clare')]
+[('xavier', 'amy'), ('zeus', 'bertha'), ('yancey', 'clare')]
+[('xavier', 'bertha'), ('yancey', 'amy'), ('zeus', 'clare')]
+ 
